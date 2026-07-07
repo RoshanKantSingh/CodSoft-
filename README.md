@@ -16,6 +16,9 @@ User-friendly menu interface
 Exit option
 Technologies Used
 Python
+
+
+
 Task 2: Simple Calculator
 
 A command-line calculator application that performs basic arithmetic operations.
@@ -31,6 +34,8 @@ Exit option
 Handles division by zero errors
 Technologies Used
 Python
+
+
 Task 3: Password Generator
 
 A password generator application that creates strong and random passwords according to user preferences.
