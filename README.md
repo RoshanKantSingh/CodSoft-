@@ -2,10 +2,8 @@ Welcome to my CodSoft Python Internship repository. This repository contains the
 
 Projects
 Task 1: To-Do List Application
-
 A command-line To-Do List application that helps users manage and organize their daily tasks efficiently.
-
-Features
+Features:-
 Add new tasks
 View all tasks
 Update existing tasks
@@ -14,16 +12,13 @@ Delete tasks
 Track task status
 User-friendly menu interface
 Exit option
-Technologies Used
-Python
+
 
 
 
 Task 2: Simple Calculator
-
 A command-line calculator application that performs basic arithmetic operations.
-
-Features
+Features:-
 Addition (+)
 Subtraction (-)
 Multiplication (*)
@@ -32,15 +27,12 @@ Modulus (%)
 Perform multiple calculations
 Exit option
 Handles division by zero errors
-Technologies Used
-Python
+
 
 
 Task 3: Password Generator
-
 A password generator application that creates strong and random passwords according to user preferences.
-
-Features
+Features:-
 Custom password length
 Multiple password complexity options
 Generate passwords with:
